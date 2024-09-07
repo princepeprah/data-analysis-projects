@@ -69,8 +69,8 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/electronics-sales-analysis.git
-   cd electronics-sales-analysis
+   git clone https://github.com/princepeprah/data-analysis-projects.git
+   cd Data analysis with pandas and sql
 
 ## Conclusion
 
